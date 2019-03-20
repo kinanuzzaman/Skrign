@@ -1,0 +1,22 @@
+body{
+  font-family: 'Merriweather Sans', sans-serif;
+
+
+}
+.backimg {
+
+  background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(0, 0, 153,1)),  url(../img/header.jpeg);
+
+  background-size: cover;
+
+
+}
+.height{
+  height: 80%;
+}
+.clr {
+  background-color: rgb(74,83,167);
+}
+.clrd{
+  background-color: rgb(7,8,154);
+}
